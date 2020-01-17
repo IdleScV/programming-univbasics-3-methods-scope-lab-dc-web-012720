@@ -8,3 +8,7 @@ def toadstool
   puts phrase
 end
 
+def link 
+  prase='It\'s Dangerous To Go Alone! Take This.'
+  puts phrase
+end
