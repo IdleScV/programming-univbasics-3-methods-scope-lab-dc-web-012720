@@ -4,7 +4,7 @@ def mario
 end
 
 def toadstool
-  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!\n'
+  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!d'
   puts phrase
 end
 
